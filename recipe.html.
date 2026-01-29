@@ -1,21 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rotel Dip Recipe</title>
+</head>
+<body>
+    <h1>Rotel Dip Recipe</h1>
+    <h2>Classic 3 Ingredient Rotel Dip</h2>
 
-    Rotel Dip Recipe
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 can (10 oz) <strong>Ro*Tel</strong> Diced Tomatoes & Green Chilies</li>
+        <li>16 oz block <strong>Velveeta</strong> Original Cheese, cubed</li>
+        <li>1 lb lean ground beef (or sausage)</li>
+    </ul>
 
+    <h3>Instructions</h3>
+    <dl>
+        <dt>Step 1</dt>
+        <dd>Brown the ground beef in a large skillet over medium-high heat until no pink remains.</dd>
 
-    Classic 3 Ingredient Rotel Dip
+        <dt>Step 2</dt>
+        <dd>Drain off any excess grease from the pan.</dd>
 
-    Ingredients
-    1 can (10 oz) **Ro*Tel** Diced Tomatoes & Green Chilies
-    16 oz block **Velveeta** Original Cheese, cubed
-    1 lb lean ground beef (or sausage)
+        <dt>Step 3</dt>
+        <dd>Reduce the heat to medium-low and add the cubed Velveeta cheese and the entire can of RoTel (including the liquid) to the skillet.</dd>
 
-    Instructions
-    1. Brown the ground beef in a large skillet over medium-high heat until no pink remains.
-    2. Drain off any excess grease from the pan.
-    3. Reduce the heat to medium-low and add the cubed Velveeta cheese and the entire can of RoTel (including the liquid) to the skillet.
-    4. Stir constantly until the cheese is completely melted and the dip is smooth and creamy.
-    5. Serve warm with tortilla chips or crackers.
-    
-For more free recipes, visit The Forked Spoon's recipe page:
-        https://theforkedspoon.com/rotel-dip/
-    
+        <dt>Step 4</dt>
+        <dd>Stir constantly until the cheese is completely melted and the dip is smooth and creamy.</dd>
+
+        <dt>Step 5</dt>
+        <dd>Serve warm with tortilla chips or crackers.</dd>
+    </dl>
+
+    <p>For more free recipes, visit The Forked Spoon's recipe page: 
+        <a href="https://theforkedspoon.com/rotel-dip/">https://theforkedspoon.com/rotel-dip/</a>
+    </p>
+</body>
+</html>
