@@ -2,28 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    The Long Faces Band Page
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Long Faces Band Page</title>
 </head>
 <body>
-    The Long Faces
-    <p>Official Website: <a href="https://www.longfaces.com">longfaces.com</a></p>
+    <h1>The Long Faces</h1>
+    <p>Official Website: <a href="https://tlfaces.bandcamp.com">tlfaces.bandcamp.com</a></p>
 
-    Band Members
+    <h2>Band Members</h2>
+    <ul>
+        <li>Tom Lane</li>
+        <li>Duy Phimasset</li>
+        <li>Halden Cooke</li>
+        <li>Harry Shapiro</li>
+        <li>Dan Ball</li>
+    </ul>
     
-        Tom Lane
-        Duy Phimasset
-        Halden Cooke
-        Harry Shapiro
-        Dan Ball
-    
-    
-    My Favorite albums are
-    
-       Documentaries
-       A debut album that received critical acclaim for its storytelling
-       
-       Until We’re Gone
-       This second album features strong rhythms and refined style; even though there are only 2 albums, these are some of the best I've heard.
-    
+    <h2>My Favorite Albums/EPs</h2>
+    <dl>
+        <dt><strong>Documentaries</strong></dt>
+        <dd>A debut EP that received critical acclaim for its storytelling and jazz-infused rock style.</dd>
+        
+        <dt><strong>Until We’re Gone</strong></dt>
+        <dd>This release features strong rhythms and refined style; even though their discography is growing, these are some of the best I've heard.</dd>
+    </dl>
 </body>
 </html>
